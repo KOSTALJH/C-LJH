@@ -1,0 +1,3 @@
+/home/ubuntu/project/cpp/CMakeFiles/main.dir
+/home/ubuntu/project/cpp/CMakeFiles/edit_cache.dir
+/home/ubuntu/project/cpp/CMakeFiles/rebuild_cache.dir
